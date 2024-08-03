@@ -2,6 +2,9 @@
 
 ![Banner](banner.png)
 
+## To use the program - click the link below
+https://ryan-craven-qa.github.io/7-days-to-die-weapon-skill-selector/
+
 ## Overview
 
 The "7 Days to Die Weapon and Skill Selector" is a web-based tool designed for players of the game *7 Days to Die*. This tool allows players to randomly select weapon types and allocate skill points using a dice system, enhancing their gameplay experience with an element of randomness and fun.
